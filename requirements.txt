@@ -9,6 +9,10 @@ tiktoken
 huggingface-hub
 pypdf
 llama-cpp-python
+myAudio
+SpeechRecognition
+sentence-transformers
+pyttsx3
 
 
 
